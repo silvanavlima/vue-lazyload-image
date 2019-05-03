@@ -11,7 +11,7 @@
 import lozad from "lozad";
 
 export default {
-  name: "AppImage"
+  name: "Image"
 };
 </script>
 
